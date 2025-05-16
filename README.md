@@ -13,7 +13,7 @@
 - 💻 Passionate about **Java**, **Spring Boot**, and **Backend Engineering**  
 - 🌐 Exploring **Full Stack Development** with modern tools & practices  
 - 📘 Currently learning **Cloud (AWS)** and advanced **Data Structures & Algorithms**  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sagnikghosal007/) | [Email](mailto:sagnikghosal007@gmail.com)
+- 📫 Reach me at: [LinkedIn]([https://www.linkedin.com/in/sagnikghosal007/](https://www.linkedin.com/in/sagnikghosal07/)) | [Email](mailto:sagnikghosal5@gmail.com)
 
 ---
 
