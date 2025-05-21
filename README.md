@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Sagnik Ghosal 👋</h1>
+<h1 align="center">Hey there, I'm Sagnik Ghosal </h1>
 <h3 align="center">🚀 CSE Undergrad | Java & Spring Boot Enthusiast | Full-Stack Explorer</h3>
 
 <p align="center">
