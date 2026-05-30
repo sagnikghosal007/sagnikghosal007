@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Sagnik Ghosal </h1>
-<h3 align="center">🚀 CSE Undergrad | Java & Spring Boot Enthusiast | Full-Stack Explorer</h3>
+<h3 align="center">🚀 CSE Undergrad | AI POWERED FULL STACK ENGINEER | COMPETITIVE CODER </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
@@ -52,7 +52,9 @@
 ### ⚡ Fun Facts
 
 - I love clean architecture and scalable backend systems.
-- I’m always up for a hackathon or coding challenge!
+- I love design microservices based ai powered systems integrating then to my java applications
+- I love to explore how event driven architecture and distributed microservices works internally
+- I’m always up for a hackathon or coding challenge! BRING IT ON!
 - I love a good cup of coffee while coding ☕🧠
 
 ---
